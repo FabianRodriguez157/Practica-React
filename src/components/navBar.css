@@ -1,0 +1,48 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  p {
+    color:  rgb(119, 119, 119);
+    font-size: 16px;
+  }
+  
+  input {
+    margin: 10px 0;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #111;
+  }
+  
